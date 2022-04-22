@@ -16,7 +16,7 @@
     "jest-resolve": "^25.4.0",
     "jest-styled-components": "^7.0.2",
     "lerna": "^3.20.2",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-test-renderer": "^16.13.1",
